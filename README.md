@@ -7,3 +7,5 @@ things demonstrated here:
 - persistent data using GameInformation object
 
 used a bunch of YouTube tutorials for inspiration and initial study, mostly HardlyBriefProgramming and GamesPlusJames.
+
+art comes from here: https://opengameart.org/content/zelda-like-tilesets-and-sprites
