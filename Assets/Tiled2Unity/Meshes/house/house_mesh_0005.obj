@@ -1,0 +1,44 @@
+﻿# Tiled2Unity generated file. Do not modify by hand.
+# Wavefront file for 'house_mesh_0005.obj'
+
+# Vertices (Count = 16)
+v -272 -560 0
+v -288 -560 0
+v -288 -544 0
+v -272 -544 0
+v -256 -560 0
+v -272 -560 0
+v -272 -544 0
+v -256 -544 0
+v -272 -576 0
+v -288 -576 0
+v -288 -560 0
+v -272 -560 0
+v -256 -576 0
+v -272 -576 0
+v -272 -560 0
+v -256 -560 0
+
+# Texture cooridinates (Count = 9)
+vt 0.08333334 0.875
+vt 0.1666667 0.875
+vt 0.1666667 1
+vt 0.08333334 1
+vt 0 0.875
+vt 0 1
+vt 0.08333334 0.75
+vt 0.1666667 0.75
+vt 0 0.75
+
+# Normal
+vn 0 0 -1
+
+# Mesh description
+g house_mesh_0005
+
+# Faces
+f 1/1/1 2/2/1 3/3/1 4/4/1
+f 5/5/1 6/1/1 7/4/1 8/6/1
+f 9/7/1 10/8/1 11/2/1 12/1/1
+f 13/9/1 14/7/1 15/1/1 16/5/1
+
